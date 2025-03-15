@@ -9,3 +9,11 @@ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 https://practice.expandtesting.com/#google_vignette
 
 https://www.demoblaze.com/
+
+---
+
+### Content :
+
+1. Locator : css selector and Xpath locator
+2. Assertion : Implicit and Explicit
+3. Radio button and Check box
