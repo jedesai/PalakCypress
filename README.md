@@ -18,6 +18,10 @@ https://www.wikipedia.org/
 
 https://www.google.com/
 
+https://the-internet.herokuapp.com/javascript_alerts
+
+https://the-internet.herokuapp.com/basic_auth
+
 ---
 
 ### Content :
@@ -26,3 +30,4 @@ https://www.google.com/
 2. Assertion : Implicit and Explicit
 3. Radio button and Check box
 4. Dropdown
+5. Alerts
