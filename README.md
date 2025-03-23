@@ -22,6 +22,8 @@ https://the-internet.herokuapp.com/javascript_alerts
 
 https://the-internet.herokuapp.com/basic_auth
 
+https://the-internet.herokuapp.com/windows
+
 ---
 
 ### Content :
@@ -31,3 +33,4 @@ https://the-internet.herokuapp.com/basic_auth
 3. Radio button and Check box
 4. Dropdown
 5. Alerts
+6. Tabs
