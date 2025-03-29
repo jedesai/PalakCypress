@@ -24,7 +24,9 @@ https://the-internet.herokuapp.com/basic_auth
 
 https://the-internet.herokuapp.com/windows
 
----
+https://the-internet.herokuapp.com/iframe
+
+https://www.tiny.cloud/docs/tinymce/6/
 
 ### Content :
 
@@ -34,3 +36,4 @@ https://the-internet.herokuapp.com/windows
 4. Dropdown
 5. Alerts
 6. Tabs
+7. iframes
