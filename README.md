@@ -28,6 +28,8 @@ https://the-internet.herokuapp.com/iframe
 
 https://www.tiny.cloud/docs/tinymce/6/
 
+https://datatables.net/examples/data_sources/ajax.html
+
 ### Content :
 
 1. Locator : css selector and Xpath locator
@@ -37,3 +39,4 @@ https://www.tiny.cloud/docs/tinymce/6/
 5. Alerts
 6. Tabs
 7. iframes
+8. Tables
