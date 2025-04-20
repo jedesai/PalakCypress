@@ -30,6 +30,16 @@ https://www.tiny.cloud/docs/tinymce/6/
 
 https://datatables.net/examples/data_sources/ajax.html
 
+https://the-internet.herokuapp.com/hovers
+
+https://swisnl.github.io/jQuery-contextMenu/demo.html
+
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_ondblclick
+
+https://the-internet.herokuapp.com/drag_and_drop
+
+https://the-internet.herokuapp.com/infinite_scroll
+
 ### Content :
 
 1. Locator : css selector and Xpath locator
@@ -40,3 +50,4 @@ https://datatables.net/examples/data_sources/ajax.html
 6. Tabs
 7. iframes
 8. Tables
+9. MouseOperations
